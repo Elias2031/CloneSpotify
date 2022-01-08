@@ -6,5 +6,7 @@ O intuito desse projeto era apenas copiar o layout do Spotify para testar minhas
 - CSS
 - Bootstrap
 
+Visualize o projeto : https://elias2031.github.io/CloneSpotify/
+
 <img src="img/imagem_tela_principal.png">
 
